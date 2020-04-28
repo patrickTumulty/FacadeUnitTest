@@ -1,0 +1,5 @@
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/build/CMakeFiles/facadeUT-tests.dir
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/build/CMakeFiles/rebuild_cache.dir
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/build/CMakeFiles/edit_cache.dir
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/build/CMakeFiles/facadeUT.dir
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/build/CMakeFiles/gtest.dir

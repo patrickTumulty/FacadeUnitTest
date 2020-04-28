@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/src/Facade.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+memory
+-
+Facade.hpp
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/src/Facade.hpp
+
+/Users/ptumulty/Developer/VS_Code/C++/FacadeUnitTest/src/Facade.hpp
+iostream
+-
+algorithm
+-
+vector
+-
+memory
+-
+
